@@ -29,12 +29,14 @@ This project was a valuable experience, blending my interests in media productio
 ## View the Video
 You can watch the final video here:
 
-[![YouTube Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/your_video_link)
-[YouTube Video](https://www.youtube.com/your_video_link)
+<div style="display: flex; align-items: center;">
+  <a href="https://youtu.be/FLZWZJe-g3s">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1uVkCgjGfFpApjQxAck8r2g1eVijyb21i/view?usp=drive_link">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Drive_logo_2018.svg/1024px-Google_Drive_logo_2018.svg.png" alt="Google Drive" width="20"/>
+  </a>
+</div>
 
-Alternatively, you can view the video via Google Drive:
-
-<a href="https://drive.google.com/file/d/your_file_id/view">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Drive_logo_2018.svg/1024px-Google_Drive_logo_2018.svg.png" alt="Google Drive" width="30"/>
-</a>
-[Google Drive Link](https://drive.google.com/file/d/your_file_id/view)
+[YouTube Video](https://youtu.be/FLZWZJe-g3s)  
+[Google Drive Link](https://drive.google.com/file/d/1uVkCgjGfFpApjQxAck8r2g1eVijyb21i/view?usp=drive_link)
