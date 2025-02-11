@@ -34,5 +34,7 @@ You can watch the final video here:
 
 Alternatively, you can view the video via Google Drive:
 
-[![Google Drive Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Drive_logo_2018.svg/1024px-Google_Drive_logo_2018.svg.png)](https://drive.google.com/file/d/your_file_id/view)
+<a href="https://drive.google.com/file/d/your_file_id/view">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Drive_logo_2018.svg/1024px-Google_Drive_logo_2018.svg.png" alt="Google Drive" width="30"/>
+</a>
 [Google Drive Link](https://drive.google.com/file/d/your_file_id/view)
