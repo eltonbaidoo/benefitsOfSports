@@ -34,7 +34,7 @@ You can watch the final video here:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/>
   </a>
   <a href="https://drive.google.com/file/d/1uVkCgjGfFpApjQxAck8r2g1eVijyb21i/view?usp=drive_link">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_Drive_logo_2018.svg/1024px-Google_Drive_logo_2018.svg.png" alt="Google Drive" width="20"/>
+    <img src="https://banner2.cleanpng.com/20180706/ajj/aaxz1cxjx.webp" alt="Google Drive" width="20"/>
   </a>
 </div>
 
